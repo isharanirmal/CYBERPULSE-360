@@ -1,0 +1,18 @@
+{
+    "project": "CYBERPULSE 360",
+    "source_file": "eurepoc_global_dataset_1_3.csv",
+    "output_file": "eurepoc_incidents_cleaned.csv",
+    "rows": 3416,
+    "columns": 98,
+    "duplicate_incident_ids": 0,
+    "missing_start_dates_after_parsing": 94,
+    "missing_end_dates_after_parsing": 1875,
+    "cleaning_notes": [
+        "Original raw columns preserved",
+        "Whitespace trimmed from text columns",
+        "Blank strings converted to missing values",
+        "Date columns parsed into additional columns",
+        "Numeric analysis columns created separately",
+        "Unknown and Not attributed labels preserved"
+    ]
+}

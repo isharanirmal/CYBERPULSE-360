@@ -1,0 +1,16 @@
+incident_type,count
+Disruption,756
+Data theft;Hijacking with Misuse,740
+Hijacking without Misuse,321
+Data theft,253
+Disruption;Hijacking with Misuse,235
+Disruption;Hijacking with Misuse;Ransomware,188
+Hijacking with Misuse,180
+Data theft & Doxing,164
+Data theft;Disruption;Hijacking with Misuse;Ransomware,98
+Data theft & Doxing;Hijacking with Misuse,97
+Data theft;Hijacking with Misuse;Ransomware,81
+Data theft;Disruption;Hijacking with Misuse,46
+Data theft & Doxing;Hijacking with Misuse;Ransomware,45
+Data theft & Doxing;Disruption;Hijacking with Misuse;Ransomware,45
+Data theft & Doxing;Disruption,43

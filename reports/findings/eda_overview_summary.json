@@ -1,0 +1,8 @@
+{
+    "total_incidents": 3415,
+    "unique_incident_ids": 3415,
+    "yearly_data_points": 25,
+    "most_common_incident_type": "Disruption",
+    "average_weighted_intensity": 2.443012012891884,
+    "median_weighted_intensity": 2.0
+}

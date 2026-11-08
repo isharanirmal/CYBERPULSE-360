@@ -1,0 +1,17 @@
+object_type,object_count
+relationship,21822
+x-mitre-analytic,1773
+attack-pattern,867
+malware,750
+x-mitre-detection-strategy,708
+course-of-action,268
+intrusion-set,193
+x-mitre-data-component,109
+tool,95
+campaign,57
+x-mitre-data-source,38
+x-mitre-tactic,15
+x-mitre-collection,1
+x-mitre-matrix,1
+identity,1
+marking-definition,1

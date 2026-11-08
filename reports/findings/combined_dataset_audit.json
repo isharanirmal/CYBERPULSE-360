@@ -1,0 +1,153 @@
+{
+    "project": "CYBERPULSE 360",
+    "generated_at_utc": "2026-11-08T04:13:02.043071+00:00",
+    "datasets": {
+        "EuRepoC": {
+            "status": "OK",
+            "records": 3416,
+            "columns": 85,
+            "unique_incident_ids": 3416,
+            "duplicate_rows": 0,
+            "suspicious_records": 1,
+            "file_size_mb": 10.43
+        },
+        "NVD": {
+            "status": "OK",
+            "records": 275006,
+            "unique_cve_ids": 275006,
+            "files_found": 7,
+            "file_size_mb": 157.37,
+            "yearly_results": [
+                {
+                    "year": 2020,
+                    "records": 21141,
+                    "unique_cve_ids": 21141,
+                    "duplicate_ids": 0,
+                    "missing_ids": 0,
+                    "records_with_cvss": 19403,
+                    "file_size_mb": 13.37
+                },
+                {
+                    "year": 2021,
+                    "records": 23494,
+                    "unique_cve_ids": 23494,
+                    "duplicate_ids": 0,
+                    "missing_ids": 0,
+                    "records_with_cvss": 22613,
+                    "file_size_mb": 16.09
+                },
+                {
+                    "year": 2022,
+                    "records": 27632,
+                    "unique_cve_ids": 27632,
+                    "duplicate_ids": 0,
+                    "missing_ids": 0,
+                    "records_with_cvss": 26236,
+                    "file_size_mb": 17.56
+                },
+                {
+                    "year": 2023,
+                    "records": 31509,
+                    "unique_cve_ids": 31509,
+                    "duplicate_ids": 0,
+                    "missing_ids": 0,
+                    "records_with_cvss": 30340,
+                    "file_size_mb": 19.38
+                },
+                {
+                    "year": 2024,
+                    "records": 39368,
+                    "unique_cve_ids": 39368,
+                    "duplicate_ids": 0,
+                    "missing_ids": 0,
+                    "records_with_cvss": 38500,
+                    "file_size_mb": 23.98
+                },
+                {
+                    "year": 2025,
+                    "records": 45479,
+                    "unique_cve_ids": 45479,
+                    "duplicate_ids": 0,
+                    "missing_ids": 0,
+                    "records_with_cvss": 43297,
+                    "file_size_mb": 24.66
+                },
+                {
+                    "year": 2026,
+                    "records": 86383,
+                    "unique_cve_ids": 86383,
+                    "duplicate_ids": 0,
+                    "missing_ids": 0,
+                    "records_with_cvss": 82106,
+                    "file_size_mb": 42.33
+                }
+            ]
+        },
+        "CISA KEV": {
+            "status": "OK",
+            "records": 1769,
+            "unique_cve_ids": 1769,
+            "duplicate_cve_ids": 0,
+            "catalog_count": 1769,
+            "catalog_version": "2026.11.06",
+            "ransomware_known_count": 361,
+            "file_size_mb": 1.75
+        },
+        "MITRE ATT&CK": {
+            "status": "OK",
+            "records": 26699,
+            "unique_object_ids": 26699,
+            "duplicate_ids": 0,
+            "missing_ids": 0,
+            "attack_patterns": 867,
+            "tactics": 15,
+            "object_types": {
+                "x-mitre-collection": 1,
+                "campaign": 57,
+                "course-of-action": 268,
+                "intrusion-set": 193,
+                "malware": 750,
+                "tool": 95,
+                "attack-pattern": 867,
+                "x-mitre-matrix": 1,
+                "x-mitre-tactic": 15,
+                "x-mitre-analytic": 1773,
+                "x-mitre-data-component": 109,
+                "x-mitre-data-source": 38,
+                "x-mitre-detection-strategy": 708,
+                "relationship": 21822,
+                "identity": 1,
+                "marking-definition": 1
+            },
+            "file_size_mb": 52.72
+        },
+        "ThreatCluster Ransomware": {
+            "status": "OK",
+            "records": 20627,
+            "invalid_lines": 0,
+            "duplicate_group_victim_pairs": 0,
+            "unique_groups": 230,
+            "unique_countries": 189,
+            "fields": {
+                "group_name": 20627,
+                "victim_name": 20627,
+                "country": 20627,
+                "sector": 20627,
+                "discovered": 20627,
+                "published": 20627,
+                "delisted": 20627,
+                "delisted_at": 20627,
+                "has_website": 20627,
+                "group_victim_seq": 20627,
+                "group_total_victims": 20627,
+                "is_headline_style": 20627
+            },
+            "missing_important_fields": {
+                "published": 3494,
+                "country": 2628,
+                "sector": 25
+            },
+            "file_size_mb": 5.95
+        }
+    }
+}

@@ -1,0 +1,6 @@
+dataset,status,records,file_size_mb
+EuRepoC,OK,3416,10.43
+NVD,OK,275006,157.37
+CISA KEV,OK,1769,1.75
+MITRE ATT&CK,OK,26699,52.72
+ThreatCluster Ransomware,OK,20627,5.95
